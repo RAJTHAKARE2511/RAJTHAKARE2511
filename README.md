@@ -37,6 +37,7 @@ Aspiring Data Analyst with hands-on experience in Excel-based business analytics
 
 - Deloitte Data Analytics Virtual Internship
 - Tata Data Visualization Virtual Experience Program
+- Introduction to Excel – Simple Learn Certification
 - HackerRank SQL (Basic)
 - HackerRank SQL (Intermediate)
 
@@ -50,4 +51,4 @@ CGPA: 9.12 / 10
 
 📧 rajthakare3006@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/raj-thakare2511
+🔗 LinkedIn: www.linkedin.com/in/raj-thakare2530
